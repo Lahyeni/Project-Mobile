@@ -7,6 +7,12 @@ version: 1.0.0+1
 environment:
   sdk: ^3.9.2
 
+flutter_icons:
+  android: "launcher_icon"
+  image_path: "lib/assets/fish.png"
+  
+  adaptive_icon_background: "#FFFFFF"  # or image path
+
 dependencies:
   flutter:
     sdk: flutter
@@ -21,8 +27,10 @@ dependencies:
   # Localization
   easy_localization: ^3.0.7
   intl: ^0.20.2
+  flutter_launcher_icons: "^0.13.1"
   flutter_localizations:
     sdk: flutter
+
 
   # Theme / State management
   provider: ^6.1.0
