@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "107958687810",
+    "project_id": "fisherspace-63501",
+    "storage_bucket": "fisherspace-63501.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107958687810:android:29dc7c70414673939735db",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107958687810-6eg9k4l04sj7b4fvmfo9aldqhkk0ba9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsHQbsMsyAhHPaK1P_Se10k5TfERh_c6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107958687810-6eg9k4l04sj7b4fvmfo9aldqhkk0ba9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107958687810-3ge1d1oe4sv8cumj9gm5vbvap8mdmh44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
